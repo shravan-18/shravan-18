@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚I'm currently studying Computer Science and Engineering<br>⚡I have a passion for Artificial Intelligence and Machine Learning<br>💡I'm looking for people to collaborate with on projects related to Generative AI<br>🌀I'm currently learning Generative AI<br>🎗️Fun Fact - I like to edit AMVs<br>
+📚I'm currently studying Computer Science and Engineering.<br>⚡I have a passion for Artificial Intelligence and Machine Learning.<br>💡I'm looking for people to collaborate with on projects in the field of AI/ML.<br>🌀I'm currently looking to enhance my knowledge in Generative AI.<br>🎗️Fun Fact - I like to edit AMVs.<br>
 
 
 ## 🌐 Socials:
