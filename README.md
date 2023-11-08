@@ -1,6 +1,6 @@
 # 💫 About Me:
 📚I'm currently studying Computer Science and Engineering.<br>⚡I have a passion for Artificial Intelligence and Machine Learning.<br>💡I'm looking for people to collaborate with on projects in the field of AI/ML.<br>🌀I'm currently looking to enhance my knowledge in Generative AI.<br>🎗️Fun Fact - I like to Swim!<br>
-
+  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@proteus333_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shravan-venkatraman) [![Medium](https://img.shields.io/badge/Medium-black?logo=medium)](https://medium.com/@shravvv18) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@proteus333) [![Pinterest](https://img.shields.io/badge/Pinterest-purple?logo=pinterest
