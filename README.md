@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an MSc Computer Vision student at MBZUAI doing AI, computer vision, and computer graphics research. I like to work on neural rendering and deep learning applications for image manipulation, geometric understanding, and generative modeling across multi-disciplinary domains. I completed my undergrad in CS at VIT University, where I worked on computer vision research spanning representation learning, 2D/3D reconstruction, and medical imaging.
+I'm an MSc. Computer Vision student at MBZUAI doing AI, computer vision, and computer graphics research. I like to work on neural rendering and deep learning applications for image manipulation, geometric understanding, and generative modeling across multi-disciplinary domains. I completed my undergrad in CS at VIT University, where I worked on computer vision research spanning representation learning, 2D/3D reconstruction, and medical imaging.
 
 I also build AI-tech for computer aided diagnostics at [Zestral](https://zestral.in), in collaboration with multiple hypergrowth startups. If you're passionate about building cutting-edge tech backed by deep research, let's connect!
 
