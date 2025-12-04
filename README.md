@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an MSc. Computer Vision student at MBZUAI doing AI, computer vision, and computer graphics research. I like to work on unified large-scale models for visual understanding and generation, within the broader context of multimodal representation learning for reasoning. I'm also interested in self-questioning reasoning in LMMs, and controllable generation of extended, coherent video sequences. I completed my undergrad in CS at VIT University, where I worked on computer vision research spanning representation learning, 2D/3D reconstruction, and medical imaging.
+I'm an MSc. Computer Vision student at MBZUAI doing machine learning and computer vision research. I work on developing self-evolving large multimodal models for generalizable multimodal intelligence, within the broader context of multimodal representation learning for reasoning. I'm also interested in unified large-scale models for image understanding and generation, and controllable generation of extended, coherent video sequences. 
 
 I also build AI-tech for computer aided diagnostics at [Zestral](https://zestral.in), in collaboration with multiple hypergrowth startups. If you're passionate about building cutting-edge tech backed by deep research, let's connect!
 
